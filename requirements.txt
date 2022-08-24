@@ -9,4 +9,3 @@ werkzeug
 numpy
 scikit-learn
 matplotlib
-pickle
